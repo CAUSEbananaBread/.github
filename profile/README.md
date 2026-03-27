@@ -1,12 +1,3 @@
-## Hi there 👋
+# 'CAUSE Banana Bread
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<a href="https://CAUSEbananaBread.github.io" target="_blank"><img alt="'CAUSE Banana Bread" src="https://github.com/CAUSEbananaBread/.github/blob/b9d9ac1c65efc5660a34ddcc39ebf085d0bac910/profile/images/CBB.png"></a>
